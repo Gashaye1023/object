@@ -10,3 +10,4 @@ ob=dog()
 ob.eat()
 ob.sleep()
 ob.bark()
+#inhertance
